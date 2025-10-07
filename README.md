@@ -1,5 +1,5 @@
 
-## Oiii eu sou a MKW, criador de conteúdo de programação e tecnologia!
+## Oiii eu sou o Xis, sou aprendiz na aréa de programação
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
@@ -26,4 +26,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
-![Snake animation](https://github.com/rafaballerini12/blob/output/github-contribution-grid-snake.svg)
+
